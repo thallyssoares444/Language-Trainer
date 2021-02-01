@@ -1,21 +1,19 @@
-Wéorterbuch Deutsch-Portugiesisch / Dicionario Alemao-Portugués
 
-A
-
-Aal [der] ®enguia [a]
-Aaleintopf [der] ®ensopado de
-enguias
-
-ab ®afastado; de; longe; partir de
-[a]; partir do [a]
-
-Abart [die] *espécie; genero [0];
+Aal [der] 
+Aaleintopf 
+ab 
+Abart 
+[die] *espécie; genero [0];
 sorte [a]
 
-Abarten [die] @espécies
-abbauen ®desmontar; extrair
-abbeuchen ®lavagem; lavar
-abbiegen ®cortar; virar; imagem
+Abarten 
+
+abbauen 
+
+abbeuchen 
+
+abbiegen
+ ®cortar; virar; imagem
 [a]
 
 Abbild [das] *respresentacao;
