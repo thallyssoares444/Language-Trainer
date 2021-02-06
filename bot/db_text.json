@@ -1,0 +1,11 @@
+{"chat":[
+    {"tag":"Normal Chat",
+     "quest":["Hallo","Hi"],
+     "response":["Hallo","Hi.Wie geht's?"]
+    },     
+    {"tag":"Grammar Chat",
+     "quest":["Tempo Verbal"],
+     "response":["Forme uma frase no futuro"]
+    }          
+
+]}
