@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/eck/dictionarybot/bot/model.tflearn"
+all_model_checkpoint_paths: "/home/eck/dictionarybot/bot/model.tflearn"
